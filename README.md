@@ -20,7 +20,7 @@ In order to convert an image from PNG,JPEG (or any other format) to the desired 
   
 ---
  
- **Note**: There are two versions for this algorithm, one that takes input from the command line and one from a .ppm file and prints the result in a .ppm file as well.
+ **Note**: There are two versions for this algorithm, one that takes input from the command line and one from a .ppm file, it then sends the result to a .ppm file as well.
  
  
 
